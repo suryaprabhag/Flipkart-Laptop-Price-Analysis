@@ -1,1 +1,505 @@
-
+,Prices,Brands,Model,Processor Type,RAM,Operating System,Storage Capacity,Storage Type,Screen Size,Customer Ratings,Ratings Count,Reviews Count,Discount Percentage
+0,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+1,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+2,"₹46,990",ASUS,ASUS ExpertBook P1 (i3 14th Gen) with 1 Yr ADP Intel Core 3 14th Gen 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.5,68,6,32
+3,"₹38,990",Acer,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U,AMD Ryzen 3 Quad Core Processor,8 GB,Windows 11,256 GB,SSD,15.6,4.2,900,102,45
+4,"₹66,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core Ultra 5 225H",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,39,6,18
+5,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+6,"₹42,990",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.5,89,5,15
+7,"₹76,990",ASUS,ASUS Expertbook P3 Metal High-performance processor with 1 Yr ADP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.4,256,33,35
+8,"₹15,299",Ultimus,Ultimus Intel Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB,64 bit Windows 11 Home,,,14.1,2.6,10,1,45
+9,"₹15,500",Jio,Jio MediaTek MT8788,MediaTek MT8788 Processor,4 GB,JioOS,,,11.6,4.3,3,0,38
+10,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+11,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+12,"₹39,938",Acer,Acer Aspire 3 Intel Pentium Quad Core N6000,Intel Pentium Quad Core Processor,12 GB,Windows 11 Home,512 GB,SSD,15.6,3.9,3896,294,15
+13,"₹55,990",Acer,Acer Aspire 14 Office 2024 + M365 Basic (i5 14th Gen) Intel Core 5 210 H,Intel Core 5 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.3,16,1,28
+14,"₹66,990",MSI,MSI Thin 15 Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.5,50,4,25
+15,"₹50,391",HP,HP 255R G10 (2026) Professional DDR5 5600Mhz AMD Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.6,19,1,37
+16,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+17,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+18,"₹79,990",ASUS,ASUS ExpertBook P1 (i7 14th Gen) with 1 Yr ADP Intel Core 7 240H,Intel Core 7 Processor,32 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.6,25,3,38
+19,"₹26,990",Primebook,Primebook 2 Pro (2025) in-Built AI MediaTek Helio G99 (MT8781),MediaTek Helio G99,8 GB,64 bit Android,,,14.1,4.3,1370,405,32
+20,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+21,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+22,"₹71,990",Samsung,Samsung Galaxy Book4 Metal Intel Core i7 13th Gen 1355U,Intel Core i7 Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.4,5627,449,19
+23,"₹59,990",ASUS,"ASUS Vivobook 15 (2026) with Office 2024 + M365 Basic*, AMD Ryzen 5 Hexa Core 150",AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.6,62,7,46
+24,"₹62,990",Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.4,19316,1808,23
+25,"₹59,990",ASUS,"ASUS Vivobook 15 (2026) with Office 2024 + M365 Basic*, AMD Ryzen 5 Hexa Core 150",AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.6,62,7,7
+26,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+27,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+28,"₹39,990",MSI,MSI Modern 14 Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,14,4.4,222,24,32
+29,"₹44,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U,Intel Core 3 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.3,6288,504,40
+30,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+31,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+32,"₹49,990",Acer,Acer Aspire 15 AMD Office 2024 + M365 Basic AMD Ryzen 5 Hexa Core 7430U,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,4056,380,41
+33,"₹58,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,618,58,52
+34,"₹48,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i3 13th Gen 1315U...",Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,14,4.3,3098,191,3
+35,"₹82,990",ASUS,ASUS ExpertBook P1 Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,32 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.3,983,79,33
+36,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+37,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+38,"₹56,990",ASUS,ASUS ExpertBook P1 (i3 14th Gen) with 1 Yr ADP Intel Core 3 14th Gen 100U,Intel Core 3 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,68,6,24
+39,"₹71,990",HP,HP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1039,69,7
+40,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+41,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+42,"₹54,990",Lenovo,Lenovo IdeaPad Slim 3 with 1Year ADP AMD Ryzen 5 40,AMD Ryzen 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.7,20,1,23
+43,"₹31,990",Acer,Acer Aspire 3 Intel Celeron Dual Core,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11 Home,256 GB,SSD,11.6,3.8,9701,821,36
+44,"₹46,499",DELL,DELL PRO 15 (2026) DDR5 5600Mhz (i3 14th Gen) Intel Core 3 14th Gen 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,3.8,28,1,26
+45,"₹68,190",HP,HP Omnibook 3 with Backlit Keyboard AMD Ryzen AI 5 Quad Core,AMD Ryzen AI 5 Quad Core Processor,24 GB,Windows 11,1 TB,SSD,15.6,4.2,13,1,18
+46,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+47,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+48,"₹58,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,618,58,52
+49,"₹84,490",Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 7 Octa Core 8840H Office 2024 and Backlit Keyboard AMD Ryzen 7 Octa Co...,AMD Ryzen 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,15.3,4.5,124,11,10
+50,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+51,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+52,"₹36,890",Ultimus,Ultimus APEX 5 Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14.1,3.7,3,0,31
+53,"₹31,990",Acer,Acer Aspire 3 Intel Celeron Dual Core,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11 Home,256 GB,SSD,11.6,3.8,9701,821,36
+54,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+55,"₹39,990",Infinix,Infinix B15 Series AMD Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.2,106,16,20
+56,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+57,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+58,"₹1,09,990",Lenovo,Lenovo Yoga Slim 7 Ultra 9 185H WUXGA OLED with 1Yr ADP Intel Core Ultra 9 185H,Intel Core Ultra 9 Processor,32 GB,Windows 11,1 TB,SSD,14,4.5,69,8,30
+59,"₹68,190",HP,HP Omnibook 3 with Backlit Keyboard AMD Ryzen AI 5 Quad Core,AMD Ryzen AI 5 Quad Core Processor,24 GB,Windows 11,1 TB,SSD,15.6,4.2,13,1,18
+60,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+61,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+62,"₹58,990",ASUS,ASUS Expertbook AMD Ryzen 5 Hexa Core 150,AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,8,4,65
+63,"₹54,990",Acer,Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U,AMD Ryzen 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.1,1982,151,24
+64,"₹79,244",ASUS,"ASUS Vivobook 16 (2025) with Office 2024 + M365 Basic, AI PC Intel Core Ultra 5 Series 2 225H",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.2,90,5,20
+65,"₹47,990",HP,HP 15 with MSO'2024 AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4,239,21,5
+66,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+67,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+68,"₹73,990",ASUS,ASUS Expertbook P1 High-performance processor with 1 Yr ADP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,32 GB,Windows 11 Home,512 GB,SSD,15.6,4.2,194,24,43
+69,"₹44,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U,Intel Core 3 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.3,6288,504,40
+70,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+71,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+72,"₹33,990",Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,7240,585,41
+73,"₹69,990",ASUS,"ASUS Vivobook S16 OLED (2025) with Backlit Keyboard, Metal Body*, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.5,1277,107,29
+74,"₹86,490",MSI,MSI Katana A15 AI AMD Ryzen 7 Octa Core 8845HS,AMD Ryzen 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.4,79,9,26
+75,"₹64,990",HP,HP Pavilion Plus Metal Body Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.1,27,1,29
+76,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+77,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+78,"₹65,990",Acer,Acer Aspire 14 Office 2024 + M365 Basic Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.3,201,20,22
+79,"₹49,990",ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.3,3098,191,1
+80,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+81,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+82,"₹1,16,462",MICROSOFT,"MICROSOFT Surface Pro 12"" with Type Cover Core 8 with Microsoft 365 for 6 Months* Snapdragon X Plus - ...",Snapdragon X Plus Processor,16 GB,64 bit Windows 11,512 GB,SSD,12,4.9,8,1,4
+83,"₹93,990",Lenovo,Lenovo Yoga 7 WUXGA-OLED with 1Yr ADP Intel Core i7 13th Gen 1360P,Intel Core i7 Processor,16 GB,64 bit Windows 11,1 TB,SSD,14,4.4,97,6,42
+84,"₹64,990",ASUS,ASUS Expertbook P3 Metal High-performance processor with 1 Yr ADP Intel Core i5 13th Gen 13420H,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,632,62,32
+85,"₹44,990",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.5,118,12,18
+86,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+87,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+88,"₹58,990",HP,HP Essentials(i5 14th Gen) Intel Core 5 13th Gen 120U,Intel Core 5 Processor,8 GB,Windows 11 Home,1 TB,SSD,15.6,5,4,0,18
+89,"₹45,990",DELL,DELL Inspiron 5440 (2026) (i3 14th Gen) Intel Core 3 14th Gen 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,14,3.9,100,6,35
+90,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+91,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+92,"₹66,490",HP,"HP Professional 14, Intel Core i5 13th Gen 1334U",Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.4,53,8,25
+93,"₹59,800",ASUS,"ASUS Vivobook 15 (2025)(i5 14th Gen)with MSO 2024 + M365 Basic, Backlit Keyboard, Intel Core 5 120U - ...",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1668,112,19
+94,"₹29,100",Lenovo,Lenovo Chromebook MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,14,3.9,3993,341,5
+95,"₹62,980",ASUS,"ASUS Vivobook 15 (2025) (i5 14th Gen) with MSO 2024 + M365 Basic*, Backlit Keyboard, Intel Core 5 120U...",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1668,112,14
+96,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+97,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+98,"₹64,990",ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,AMD Ryzen 7 Octa Core Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.4,4204,242,25
+99,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+100,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+101,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+102,"₹55,990",MSI,MSI Modern 15 Intel Core i7 13th Gen 1355U,Intel Core i7 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4,62,7,33
+103,"₹54,990",ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,3098,191,
+104,"₹69,990",HP,HP OmniBook 5 OLED Next-Gen AI Laptop Snapdragon X,Snapdragon X Processor,16 GB,Windows 11 Home,1 TB,SSD,16,4.5,19,3,33
+105,"₹75,990",Lenovo,Lenovo LOQ 2025 AMD Ryzen 5 Quad Core 7235HS,AMD Ryzen 5 Quad Core Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,4,1,11
+106,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+107,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+108,"₹1,14,990",HP,HP Victus AI AMD Ryzen 7 Octa Core 260,AMD Ryzen 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,15.6,4.5,570,51,43
+109,"₹67,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core Ultra 5 225H",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,1 TB,SSD,14,4.4,39,5,9
+110,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+111,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+112,"₹57,990",Acer,Acer Aspire Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,12 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,2481,215,3
+113,"₹91,990",MICROSOFT,"MICROSOFT Surface Pro 12"" Core 8 with Microsoft 365 for 6 Months* Snapdragon X Plus",Snapdragon X Plus Processor,16 GB,64 bit Windows 11 Home,256 GB,SSD,12,4.6,19,0,2
+114,"₹46,890",HP,HP Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,3.9,49,1,4
+115,"₹73,325",ASUS,"ASUS Vivobook S14 (2025) with Office 2024 + M365 Basic*, AI PC, Backlit Keyboard, Intel Core Ultra 5 2...",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,94,12,25
+116,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+117,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+118,"₹69,990",Lenovo,Lenovo IdeaPad Slim 5 WUXGA OLED Full metal with 1Yr ADP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.2,89,9,29
+119,"₹56,990",DELL,DELL 15 (Previously Inspiron) (2025) Microsoft Office Home 2024 AMD Ryzen 5 Hexa Core 7530U,AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.3,3435,231,18
+120,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+121,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+122,"₹62,990",Acer,Acer Swift Lite 14 Intel Core Ultra 5 115U,Intel Core Ultra 5 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.2,1829,168,25
+123,"₹62,990",DELL,DELL Inspiron 3530 (2026) Intel Core i5 13th Gen 1334U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.3,1374,70,10
+124,"₹64,990",MOTOROLA,MOTOROLA Motobook 60 Full Metal OLED (i7 14th Gen) Intel Core 7 Series 2 240H,Intel Core 7 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.4,1119,128,38
+125,"₹67,990",HP,HP Victus AMD Ryzen 7 Hexa Core 7445HS,AMD Ryzen 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.4,1157,71,10
+126,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+127,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+128,"₹76,990",ASUS,"ASUS Vivobook S16 (2026) with Metallic Design, Gaming Grade CPU AMD Ryzen 5 220",AMD Ryzen 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,5,3,1,47
+129,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+130,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+131,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+132,"₹69,990",ASUS,"ASUS Vivobook S16 OLED (2025) with Backlit Keyboard, Metal Body*, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.5,1277,107,29
+133,"₹69,990",MOTOROLA,MOTOROLA Motobook 60 Full Metal OLED AI PC Intel Core Ultra 5 225H,Intel Core Ultra 5 Processor,16 GB,64 bit Windows 11,1 TB,SSD,14,4.4,1036,144,36
+134,"₹1,35,990",ASUS,"ASUS Zenbook 14 OLED (2025) with Touch Screen, Backlit Keyboard, Full Metal Body, Intel Core Ultra 7 2...",Intel Core Ultra 7 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.5,24,4,14
+135,"₹39,990",MSI,MSI Modern 14 Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,14,4.4,222,24,32
+136,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+137,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+138,"₹59,990",Acer,Acer Aspire Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,2481,215,
+139,"₹75,990",Lenovo,Lenovo LOQ 2025 AMD Ryzen 5 Quad Core 7235HS,AMD Ryzen 5 Quad Core Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,4,1,11
+140,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+141,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+142,"₹75,990",ASUS,ASUS ExpertBook P1 (i7 14th Gen) with 1 Yr ADP Intel Core 7 240H,Intel Core 7 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,108,10,24
+143,"₹79,990",DELL,DELL 14 Plus Next Gen AI PC Microsoft Office Home 2024 Intel Core Ultra 5 226V,Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.2,465,39,18
+144,"₹68,990",Samsung,Samsung Galaxy Book4 (i5 14th Gen) Intel Core 5 120U,Intel Core 5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.4,469,44,16
+145,"₹80,620",HP,HP OmniBook 5 OLED Next-Gen AI Laptop Snapdragon X,Snapdragon X Processor,16 GB,Windows 11 Home,1 TB,SSD,16,4.5,19,3,8
+146,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+147,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+148,"₹49,899",HP,HP 250R G10 (2025) (i3 14th Gen) Intel Core 3 14th Gen 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.4,30,2,23
+149,"₹59,990",Acer,Acer Aspire Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,2481,215,
+150,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+151,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+152,"₹42,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U,Intel Core 3 Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,6288,504,38
+153,"₹59,990",DELL,DELL 14 Microsoft Office Home 2024 Snapdragon X,Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4,24,6,31
+154,"₹65,800",MSI,MSI Thin 15 Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.3,1563,117,3
+155,"₹77,990",ASUS,ASUS TUF Gaming A15 (2025) AMD Ryzen 7 Octa Core 7445HS,AMD Ryzen 7 Octa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.4,4204,242,7
+156,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+157,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+158,"₹71,890",MSI,MSI Thin 15 Intel Core i5 12th Gen 13420H,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.7,10,0,2
+159,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+160,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+161,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+162,"₹39,990",Acer,Acer One 14 AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,4,567,61,18
+163,"₹57,990",Acer,Acer Aspire 15 Lite(i5 14th Gen) Intel Core 5 210H,Intel Core 5 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,,,,26
+164,"₹75,990",ASUS,ASUS ExpertBook P1 (i7 14th Gen) with 1 Yr ADP Intel Core 7 240H,Intel Core 7 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,108,10,24
+165,"₹41,990",Acer,Acer TravelLite AMD Ryzen 3 Octa Core,AMD Ryzen 3 Octa Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.6,12,1,30
+166,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+167,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+168,"₹56,990",Infinix,Infinix ZERO BOOK Series Laptop Intel Intel Core i7 12th Gen 12700H,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,3.7,28,6,43
+169,"₹48,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i3 13th Gen 1315U...",Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,14,4.3,3098,191,3
+170,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+171,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+172,"₹99,990",MICROSOFT,"MICROSOFT Surface Laptop 13"" with Microsoft 365 for 6 Months* Snapdragon X Plus",Snapdragon X Plus Processor,16 GB,64 bit Windows 11,256 GB,SSD,13,3.8,4,0,
+173,"₹70,490",Infinix,Infinix ZERO BOOK ULTRA Series Laptop Intel Intel Core i9 12th Gen 12900H,Intel Core i9 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.1,76,13,45
+174,"₹64,990",MOTOROLA,MOTOROLA Motobook 60 Full Metal OLED (i7 14th Gen) Intel Core 7 Series 2 240H,Intel Core 7 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.4,1119,128,38
+175,"₹69,990",Lenovo,Lenovo IdeaPad Slim 5 WUXGA OLED Full metal with 1Yr ADP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.2,89,9,29
+176,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+177,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+178,"₹1,08,990",ASUS,ASUS TUF Gaming A16 (2026) with Office 2024 + M365 Basic AMD Ryzen 7 170,AMD Ryzen 7 Processor,16 GB,Windows 11 Home,1 TB,SSD,16,4.5,247,15,21
+179,"₹92,990",ASUS,"ASUS Vivobook S16 (2025) with Office 2024 + M365 Basic*, Metal Body*, Intel Core Ultra 7 255H",Intel Core Ultra 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.4,14,2,23
+180,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+181,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+182,"₹39,990",MSI,MSI Modern 14 C13M Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,14,4.2,122,13,32
+183,"₹42,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U,Intel Core 3 Processor,8 GB,Windows 11 Home,512 GB,SSD,14,4.3,6288,504,38
+184,"₹54,990",Acer,Acer Aspire 7 Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.2,3927,308,38
+185,"₹29,100",Lenovo,Lenovo Chromebook MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,14,3.9,3993,341,5
+186,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+187,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+188,"₹46,479",HP,HP 15 (2025) AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.3,40,3,22
+189,"₹54,990",Samsung,Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.4,10637,1097,4
+190,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+191,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+192,"₹64,990",Acer,Acer Aspire Lite Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,16 GB,64 bit Windows 11 Home,1 TB,SSD,15.6,4.1,2481,215,7
+193,"₹94,990",ASUS,"ASUS Vivobook S14 OLED (2025), AI PC, Metal Body, Backlit Keyboard, Intel Core Ultra 7 256V",Intel Core Ultra 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.3,9,2,26
+194,"₹54,990",Samsung,Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.4,10637,1097,4
+195,"₹46,400",DELL,DELL 15 AMD Ryzen 5 Quad Core 7520U,AMD Ryzen 5 Quad Core Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.4,60,3,6
+196,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+197,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+198,"₹64,990",HP,HP Pavilion Plus Metal Body Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.1,27,1,29
+199,"₹39,200",Acer,Acer Aspire 3 Intel Celeron Dual Core,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11 Home,256 GB,SSD,11.6,3.8,9701,821,12
+200,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+201,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+202,"₹59,500",HP,HP AMD Ryzen 5 Quad Core 7520U,AMD Ryzen 5 Quad Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.2,493,30,9
+203,"₹79,990",ASUS,ASUS TUF Gaming F16 (2025) with MSO 2024+M365 Basic (i5 14th Gen) Intel Core 5,Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.6,123,14,13
+204,"₹48,990",ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i3 13th Gen 1315U...",Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,14,4.3,3098,191,3
+205,"₹49,700",HP,HP {2026} AMD Ryzen 5 Hexa Core 7535U,AMD Ryzen 5 Hexa Core Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,,,,28
+206,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+207,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+208,"₹57,999",MSI,MSI Modern 15 Intel Core i7 12th Gen 1255U,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.3,29,3,17
+209,"₹1,19,990",Lenovo,Lenovo Yoga Slim 7x Next Gen AI PC 3K OLED Full Metal with 1Yr ADP Snapdragon Snapdragon X Elite,Snapdragon Snapdragon X Elite Processor,32 GB,64 bit Windows 11,1 TB,SSD,14.5,4.2,10,1,42
+210,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+211,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+212,"₹46,990",DELL,DELL Inspiron 5440 (2026) (i3 14th Gen) Intel Core 3 14th Gen 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14,4.2,87,11,33
+213,"₹59,886",Acer,Acer Aspire Lite AMD Ryzen 7 Octa Core 7730U,AMD Ryzen 7 Octa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.1,575,45,6
+214,"₹93,990",Lenovo,Lenovo Yoga 7 WUXGA-OLED with 1Yr ADP Intel Core i7 13th Gen 1360P,Intel Core i7 Processor,16 GB,64 bit Windows 11,1 TB,SSD,14,4.4,97,6,42
+215,"₹68,990",ASUS,"ASUS Vivobook 16 (2025) with Office 2024 + M365 Basic, AI PC Intel Core Ultra 5 Series 2 225H",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.2,90,5,25
+216,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+217,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+218,"₹33,990",Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,7240,585,41
+219,"₹82,490",DELL,DELL 14 (i7 14th Gen) Intel Core 7 240H,Intel Core 7 Processor,16 GB,Windows 11,512 GB,SSD,14,4.7,6,2,12
+220,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+221,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+222,"₹1,22,999",Samsung,Samsung Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U,Intel Core i7 Processor,16 GB,Windows 11,1 TB,SSD,13.3,4.3,20,3,16
+223,"₹47,490",DELL,DELL PRO 15 Backlit (2025) AMD Ryzen 5 Quad Core 7520U,AMD Ryzen 5 Quad Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.5,18,2,10
+224,"₹98,890",MSI,MSI Thin 15 Intel Core i7 12th Gen 12650H,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.8,12,1,1
+225,"₹1,27,990",HP,HP Victus (i7 14th Gen) Intel Core 7 240H,Intel Core 7 Processor,24 GB,Windows 11 Home,1 TB,SSD,15.6,4.3,17,1,5
+226,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+227,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+228,"₹39,938",Acer,Acer Aspire 3 Intel Pentium Quad Core N6000,Intel Pentium Quad Core Processor,12 GB,Windows 11 Home,512 GB,SSD,15.6,3.9,3896,294,15
+229,"₹44,750",HP,HP 255R G10 (2025) Professional AMD Ryzen 3 Quad Core 7335U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.1,16,1,16
+230,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+231,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+232,"₹99,735",HP,HP Victus Intel Core i5 14th Gen 14450HX,Intel Core i5 Processor,24 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,528,36,5
+233,"₹49,800",HP,HP 255 R G10 AMD Ryzen 5 Hexa Core 7535U,AMD Ryzen 5 Hexa Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,3.7,20,1,16
+234,"₹1,19,990",ASUS,"ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*, AI PC(i7 14th gen) Intel Core 7 240...",Intel Core 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.5,64,6,20
+235,"₹1,39,490",Lenovo,Lenovo LOQ 2025 Intel Core i7 14th Gen 14700HX,Intel Core i7 Processor,16 GB,Windows 11 Home,1 TB,SSD,15.6,4.4,261,21,8
+236,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+237,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+238,"₹43,990",Acer,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,,,,45
+239,"₹35,990",Avita,Avita Liber E Series Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,8 GB,Windows 11 Home,512 GB,SSD,14.1,3.5,10,3,52
+240,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+241,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+242,"₹1,35,990",ASUS,"ASUS Zenbook 14 OLED (2025) with Touch Screen, Backlit Keyboard, Full Metal Body, Intel Core Ultra 7 2...",Intel Core Ultra 7 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.5,24,4,14
+243,"₹99,990",ASUS,ASUS ExpertBook P3 Intel Core Ultra 7 255H,Intel Core Ultra 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.5,12,2,48
+244,"₹49,990",Acer,Acer Aspire Lite Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.1,1088,86,10
+245,"₹98,990",ASUS,"ASUS Gaming V16 (2025) with Office 2024 + M365 Basic*, AI PC, (i7 14th gen) Intel Core 7 240H",Intel Core 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.4,115,7,13
+246,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+247,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+248,"₹74,990",ASUS,"ASUS V16 (2025) for Creator with Office 2024 + M365 Basic*,AI PC (i5 14th Gen) Intel Core 5 210H",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.3,41,8,15
+249,"₹65,990",ASUS,"ASUS Vivobook S14 (2025) with Office 2024 + M365 Basic*, AI PC, Backlit Keyboard, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.5,1277,107,29
+250,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+251,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+252,"₹44,990",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.5,118,12,18
+253,"₹32,000",Acer,Acer One 11 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,Windows 11,128 GB,SSD,11.6,3.4,140,22,5
+254,"₹58,990",HP,HP 255 G10 (2025) AMD Ryzen 7 Octa Core 7730U,AMD Ryzen 7 Octa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.2,759,47,15
+255,"₹96,300",ASUS,"ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*, AI PC(i5 14th gen) Intel Core 5 210...",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.2,32,6,23
+256,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+257,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+258,"₹70,990",HP,HP 15 with Backlit Keyboard and MSO'2024(i5 14th Gen) Intel Core 5 120U,Intel Core 5 Processor,24 GB,Windows 11 Home,512 GB,SSD,15.6,,,,46
+259,"₹54,890",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i3 13th Gen 1315U...",Intel Core i3 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1282,83,
+260,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+261,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+262,"₹49,990",ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.3,3098,191,1
+263,"₹1,21,990",Acer,Acer NITRO V 16S (i5 14th Gen) Intel Core 5 210H,Intel Core 5 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,16,4.5,188,20,5
+264,"₹54,890",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i3 13th Gen 1315U...",Intel Core i3 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1282,83,
+265,"₹46,999",MSI,MSI Modern 14 Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,14,4.3,117,11,33
+266,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+267,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+268,"₹22,990",ASUS,ASUS Chromebook Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Chrome,,,15.6,3.8,3068,262,30
+269,"₹1,33,990",Lenovo,Lenovo IdeaPad 5 2-in-1 (Gen 11) Next-Gen AI PC Intel Core Ultra 5 Series 3 322,Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,,,,37
+270,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+271,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+272,"₹93,990",ASUS,"ASUS Vivobook 14 Flip OLED (2026) with Touch Screen, Metallic Design, Intel Core Ultra 5 226V",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,,,,46
+273,"₹59,800",ASUS,"ASUS Vivobook 15 (2025)(i5 14th Gen)with MSO 2024 + M365 Basic, Backlit Keyboard, Intel Core 5 120U - ...",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,1668,112,19
+274,"₹57,999",DELL,DELL Inspiron 5440 (2025) Intel Core i3 13th Gen 1305U,Intel Core i3 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,14,4,245,19,31
+275,"₹46,990",ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,AMD Ryzen 5 Quad Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,2631,169,7
+276,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+277,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+278,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+279,"₹42,990",ASUS,"ASUS Vivobook 15 (2025) with Touchscreen & Backlit Keyboard, Intel Core i3 13th Gen 1315U",Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,271,23,17
+280,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+281,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+282,"₹91,790",ASUS,"ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*,AI PC((i5 14th gen) Intel Core 5 210...",Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.3,482,27,13
+283,"₹84,990",ASUS,"ASUS Vivobook S14 (2025) with Backlit Keyboard, Metallic Design*, Intel Core Ultra 7 255H",Intel Core Ultra 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.3,39,3,23
+284,"₹1,59,980",ASUS,ASUS ROG Strix G16 (2025) with Office 2024 + M365 Basic* Intel Core i7 14th Gen 14650HX,Intel Core i7 Processor,16 GB,Windows 11 Home,1 TB,SSD,16,4.9,61,10,35
+285,"₹79,490",Lenovo,Lenovo LOQ Essential Intel Core i5 12th Gen 12450HX,Intel Core i5 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4,427,36,6
+286,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+287,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+288,"₹44,990",MSI,MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.4,4850,541,30
+289,"₹49,990",Acer,Acer Aspire Lite Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.1,1088,86,10
+290,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+291,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+292,"₹1,52,990",Apple,"Apple MacBook Air (M5, 2026) M5",Apple M5 Processor,24 GB,Mac OS,1 TB,SSD,13.6,4.7,552,56,4
+293,"₹80,999",HP,HP Envy x360 AMD Ryzen 5 Hexa Core 7530U,AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.8,6,1,18
+294,"₹50,391",HP,HP 255R G10 (2026) Professional DDR5 5600Mhz AMD Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.6,19,1,37
+295,"₹1,49,770",HP,HP HyperX Omen Intel Core i7 14th Gen 14650HX,Intel Core i7 Processor,24 GB,Windows 11,1 TB,SSD,15.3,4.4,57,6,6
+296,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+297,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+298,"₹15,500",Jio,Jio MediaTek MT8788,MediaTek MT8788 Processor,4 GB,JioOS,,,11.6,4.3,3,0,38
+299,"₹57,990",Acer,Acer Aspire Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,12 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,2481,215,3
+300,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+301,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+302,"₹42,990",HP,HP 15 (2025) AMD Athlon Dual Core 7120U,AMD Athlon Dual Core Processor,8 GB,64 bit Windows 11 Home,256 GB,SSD,15.6,4,386,24,12
+303,"₹69,990",ASUS,"ASUS Vivobook 16 (2025) with Office 2024 + M365 Basic*, Metallic Design, H-Series Intel Core i7 13th G...",Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,3.9,14,3,27
+304,"₹44,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP(i3 14th Gen) Intel Core 3 13th Gen 1315U,Intel Core 3 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.3,6288,504,40
+305,"₹1,36,990",Lenovo,Lenovo IdeaPad Slim 5 (Gen 11) Next-Gen AI PC Intel Core Ultra 7 Series 3 355,Intel Core Ultra 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,,,,42
+306,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+307,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+308,"₹1,99,990",ASUS,ASUS Expertbook P5 Full metal AI PC with 1 Yr ADP Intel Core Ultra 7 356H,Intel Core Ultra 7 Processor,32 GB,Windows 11 Home,1 TB,SSD,16,,,,52
+309,"₹33,990",Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,1977,104,42
+310,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+311,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+312,"₹46,990",Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 7330U,AMD Ryzen 3 Quad Core Processor,16 GB,Windows 11,512 GB,SSD,15.6,3.9,133,17,6
+313,"₹2,39,990",ASUS,ASUS ExpertBook Ultra Copilot+ PC Intel Core Ultra X7 358H,Intel Core Ultra X7 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.9,11,2,46
+314,"₹2,39,990",ASUS,ASUS ExpertBook Ultra Copilot+ PC Intel Core Ultra X7 358H,Intel Core Ultra X7 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.9,11,2,31
+315,"₹56,000",ASUS,"ASUS Vivobook 16 (2025), Copilot + PC with Backlit Keyboard, AI PC, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.1,157,11,44
+316,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+317,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+318,"₹61,990",ASUS,ASUS Expertbook P1 with 1 Yr ADP Intel Core i5 13th Gen 13420H,Intel Core i5 Processor,32 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,315,18,46
+319,"₹42,990",MSI,MSI Modern 14 Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,14,4.4,385,36,23
+320,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+321,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+322,"₹59,990",Infinix,Infinix Y4 Max Series Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,16 GB,64 bit Windows 11,512 GB,SSD,16,4.3,468,58,
+323,"₹45,989",DELL,DELL Intel Core i3 13th Gen,Intel Core i3 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14,4,42,1,11
+324,"₹1,52,990",Apple,"Apple MacBook Air (M5, 2026) M5",Apple M5 Processor,24 GB,Mac OS,1 TB,SSD,13.6,4.7,552,56,4
+325,"₹73,461",Acer,Acer Aspire Lite Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.3,51,6,
+326,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+327,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+328,"₹37,990",Acer,Acer Aspire 3 Backlit Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.2,3227,215,28
+329,"₹1,09,990",Apple,Apple MacBook Air M1,Apple M1 Processor,8 GB,Mac OS,512 GB,SSD,13.3,4.7,5826,468,
+330,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+331,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+332,"₹79,387",ASUS,ASUS TUF Gaming A15 (2025) AMD Ryzen 7 Hexa Core 7445HS,AMD Ryzen 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,82,7,7
+333,"₹2,18,490",Lenovo,Lenovo Legion Pro 5 WQXGA OLED Intel Core Ultra 7 255 HX,Intel Core Ultra 7 Processor,32 GB,64 bit Windows 11 Home,1 TB,SSD,16,4.5,11,1,17
+334,"₹64,799",HP,HP Pavilion Intel Core i5 11th Gen 1155G7,Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.3,319,25,18
+335,"₹54,990",ASUS,ASUS Vivobook Go 15 (2025) with Office 2024 + M365 Basic AMD Ryzen 5 Quad Core 40,AMD Ryzen 5 Quad Core Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,8,1,
+336,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+337,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+338,"₹33,990",Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,1977,104,42
+339,"₹72,885",HP,HP OmniBook 5 OLED {2026} Snapdragon X,Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,,,,12
+340,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+341,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+342,"₹1,17,990",Samsung,Samsung Galaxy Book6 Intel Core Ultra 7 Series 3 355,Intel Core Ultra 7 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,16,,,,28
+343,"₹79,990",ASUS,ASUS TUF Gaming F16 (2025) with MSO 2024+M365 Basic (i5 14th Gen) Intel Core 5,Intel Core 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.6,123,14,13
+344,"₹46,999",MSI,MSI Modern 14 Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,14,4.3,117,11,33
+345,"₹49,490",HP,HP 15s Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,983,56,2
+346,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+347,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+348,"₹57,999",Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Quad Core 7520U,AMD Ryzen 5 Quad Core Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.2,536,36,31
+349,"₹46,890",HP,HP Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,3.9,49,1,4
+350,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+351,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+352,"₹22,490",Acer,Acer Chromebook Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Chrome,,,15.6,3.8,2876,195,33
+353,"₹22,990",Acer,Acer Chromebook Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Chrome,,,14,3.8,663,50,36
+354,"₹64,990",MSI,MSI Modern 15 Intel Core i7 13th Gen 1355U,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4,62,7,26
+355,"₹73,325",ASUS,"ASUS Vivobook S14 (2025) with Office 2024 + M365 Basic*, AI PC, Backlit Keyboard, Intel Core Ultra 5 2...",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.4,94,12,25
+356,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+357,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+358,"₹62,990",Acer,Acer Swift Neo Office 2024 + M365 Basic Intel Core Ultra 5 115U,Intel Core Ultra 5 Processor,16 GB,64 bit Windows 11 Home,1 TB,SSD,14,4.1,705,56,40
+359,"₹54,999",HP,HP 15s Intel Core i5 11th Gen,Intel Core i5 Processor,8 GB,64 bit Windows 10,512 GB,SSD,15.6,4.3,1255,107,8
+360,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+361,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+362,"₹85,999",HP,HP Intel Core i7 13th Gen 13620H,Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,,,,3
+363,"₹1,94,990",Apple,Apple MacBook Pro M4,Apple M4 Processor,24 GB,Mac OS,1 TB,SSD,14,4.4,14,2,7
+364,"₹71,499",ASUS,"ASUS Vivobook S14 (2025) with Office 2024 + M365 Basic*, AI PC, Backlit Keyboard, Snapdragon X",Snapdragon X Processor,16 GB,Windows 11 Home,512 GB,SSD,14,4.5,1277,107,23
+365,"₹76,616",MSI,MSI Thin 15 Intel Core i5 13th Gen 13420H,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.2,77,3,13
+366,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+367,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+368,"₹58,990",HP,HP Essentials(i5 14th Gen) Intel Core 5 13th Gen 120U,Intel Core 5 Processor,8 GB,Windows 11 Home,1 TB,SSD,15.6,5,4,0,18
+369,"₹3,71,490",Apple,Apple M4 Max,Apple M4 Max Processor,48 GB,Mac OS,256 GB,SSD,16,,,,7
+370,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+371,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+372,"₹49,951",HP,HP 14s Intel Pentium Quad Core N6000,Intel Pentium Quad Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,4,544,58,
+373,"₹99,990",DELL,DELL 14 Plus Microsoft Office Home 2024 Intel Core Ultra 7 256V,Intel Core Ultra 7 Processor,16 GB,Windows 11,512 GB,SSD,14,4.3,35,9,14
+374,"₹88,990",ASUS,ASUS TUF Gaming A15 (2026) AMD Ryzen 7 170,AMD Ryzen 7 Processor,16 GB,Windows 11 Home,1 TB,SSD,15.6,4.3,4,0,2
+375,"₹1,71,999",MSI,MSI Crosshair 16 HX AI Intel Core Ultra 7 255HX,Intel Core Ultra 7 Processor,16 GB,64 bit Windows 11,1 TB,SSD,16,,,,19
+376,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+377,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+378,"₹3,71,490",Apple,Apple M4 Max,Apple M4 Max Processor,48 GB,Mac OS,1 TB,SSD,16,,,,7
+379,"₹2,22,490",Apple,Apple Macbook Pro M4 Pro,Apple M4 Pro Processor,24 GB,Mac OS,1 TB,SSD,14,4.5,4,0,7
+380,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+381,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+382,"₹1,19,990",DELL,DELL Alienware 16 Aurora (i7 14th Gen) Microsoft Office Home 2024 Intel Core 7 240 H,Intel Core 7 Processor,16 GB,Windows 11 Home,1 TB,SSD,16,4.5,13,2,7
+383,"₹40,990",ASUS,ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.2,3287,291,19
+384,"₹92,999",Apple,Apple MacBook AIR M2,Apple M2 Processor,8 GB,Mac OS,512 GB,SSD,13.6,4.7,1929,116,15
+385,"₹36,890",Ultimus,Ultimus APEX 5 Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,14.1,3.7,3,0,31
+386,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+387,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+388,"₹61,790",ASUS,ASUS Vivobook 15 (i5 14th Gen) Intel Core 5 120U,Intel Core 5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4,36,1,16
+389,"₹51,990",Acer,Acer Nitro V AMD Ryzen 5 Hexa Core 7535HS,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.3,595,50,39
+390,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+391,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+392,"₹92,990",Lenovo,Lenovo Yoga 7 2-in-1 with 1Yr ADP Intel Core Ultra 5 226V,Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,1 TB,SSD,14,4.7,3,0,39
+393,"₹89,990",Infinix,Infinix ZEROBOOK 13 Intel Intel Core i9 13th Gen 13900H,Intel Core i9 Processor,32 GB,64 bit Windows 11,1 TB,SSD,15.6,4,1431,189,27
+394,"₹1,26,990",Lenovo,Lenovo IdeaPad Pro 5 with 1Yr ADP Intel Core Ultra 9 285H,Intel Core Ultra 9 Processor,32 GB,Windows 11 Home,1 TB,SSD,14,4.4,66,2,24
+395,"₹88,990",HP,HP Victus Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,3.6,9,1,15
+396,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+397,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+398,"₹71,997",HP,HP Qualcomm Snapdragon X,Qualcomm Snapdragon X Processor,16 GB,Windows 11,1 TB,HDD,14,,,,13
+399,"₹49,990",DELL,DELL Intel Core i3 13th Gen 1305U,Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.2,799,44,1
+400,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+401,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+402,"₹47,990",HP,HP 15s Backlit Keyboard AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,1029,79,14
+403,"₹86,990",HP,HP 14 AI PC Intel Core Ultra 7 155H,Intel Core Ultra 7 Processor,24 GB,Windows 11 Home,1 TB,SSD,14,4.1,612,53,37
+404,"₹51,490",HP,HP Intel Core i3 13th Gen 1315U,Intel Core i3 Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,174,10,13
+405,"₹1,19,990",ASUS,"ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*, AI PC(i7 14th gen) Intel Core 7 240...",Intel Core 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.5,64,6,20
+406,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+407,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+408,"₹59,783",ASUS,ASUS VivoBook 14 Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,14,3.6,55,5,20
+409,"₹52,900",HP,HP 15 G9 (2025) AMD Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4,229,14,7
+410,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+411,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+412,"₹68,990",DELL,DELL 14 Snapdragon X Plus,Snapdragon X Plus Processor,16 GB,Windows 11,512 GB,SSD,14,,,,35
+413,"₹63,990",Lenovo,Lenovo LOQ Intel Core i5 12th Gen 12450HX,Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.3,1440,93,39
+414,"₹46,990",HP,HP 14s Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,3.8,562,49,2
+415,"₹80,990",ASUS,"ASUS Vivobook S16 (2025) with Office 2024 + M365 Basic*, Metal Body*, Intel Core Ultra 5 225H",Intel Core Ultra 5 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.2,10,2,26
+416,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+417,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+418,"₹59,999",HP,HP Intel Core i5 13th Gen 1335U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.2,78,5,20
+419,"₹59,990",Acer,Acer Aspire AMD Ryzen 5 Hexa Core 7430U,AMD Ryzen 5 Hexa Core Processor,16 GB,64 bit Windows 11 Home,1 TB,SSD,15.6,4.2,4056,380,
+420,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+421,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+422,"₹1,33,300",Apple,"Apple MacBook Air (M5, 2026) M5",Apple M5 Processor,16 GB,Mac OS,512 GB,SSD,15.3,4.5,31,2,8
+423,"₹1,42,990",DELL,DELL Alienware 16 Aurora (i7 14th Gen) Microsoft Office Home 2024 Intel Core 7 240H,Intel Core 7 Processor,16 GB,Windows 11,1 TB,SSD,16,4.1,8,1,7
+424,"₹1,70,990",Apple,Apple MacBook Air M3,Apple M3 Processor,16 GB,Mac OS,1 TB,SSD,13,,,,2
+425,"₹1,55,990",Apple,Apple MacBook AIR M2,Apple M2 Processor,16 GB,Mac OS,1 TB,SSD,13.6,,,,2
+426,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+427,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+428,"₹54,990",ASUS,ASUS Vivobook Go 15 (2025) with Office 2024 + M365 Basic AMD Ryzen 5 Quad Core 40,AMD Ryzen 5 Quad Core Processor,8 GB,Windows 11 Home,512 GB,SSD,15.6,4.1,8,1,
+429,"₹1,23,990",MSI,MSI Summit E13 Evo AI PC Intel Core Ultra 5 1st Gen 125H,Intel Core Ultra 5 Processor,16 GB,Windows 11,1 TB,SSD,13.3,,,,22
+430,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+431,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+432,"₹49,990",ASUS,ASUS Vivobook Go 14 (2026) with Office 2024 + M365 Basic AMD Ryzen 3 Quad Core 30,AMD Ryzen 3 Quad Core Processor,8 GB,Windows 11 Home,512 GB,SSD,14,4.3,2231,148,23
+433,"₹90,990",Samsung,Samsung Galaxy Book3 Pro EVO AMOLED Intel Core i7 13th Gen 1360P,Intel Core i7 Processor,16 GB,Windows 11,1 TB,SSD,16,4.6,22,0,50
+434,"₹1,19,990",Lenovo,Lenovo Yoga Slim 7x Next Gen AI PC 3K OLED Full Metal with 1Yr ADP Snapdragon Snapdragon X Elite,Snapdragon Snapdragon X Elite Processor,32 GB,64 bit Windows 11,1 TB,SSD,14.5,4.2,10,1,42
+435,"₹1,09,990",Lenovo,Lenovo LOQ Intel Core i7 13th Gen 13650HX,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.2,192,13,10
+436,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+437,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+438,"₹62,990",ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i7 13th Gen 13620H",Intel Core i7 Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,641,38,26
+439,"₹68,947",Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.1,59,4,4
+440,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+441,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+442,"₹1,12,990",Samsung,Samsung Galaxy Book6 Intel Core Ultra 5 Series 3 325,Intel Core Ultra 5 Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,14,,,,20
+443,"₹90,990",Samsung,Samsung Galaxy Book3 Pro EVO AMOLED Intel Core i7 13th Gen 1360P,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,14,4.6,22,0,41
+444,"₹55,990",ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,AMD Ryzen 7 Octa Core Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.3,1881,133,26
+445,"₹52,082",Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,7240,585,13
+446,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+447,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+448,"₹86,490",Samsung,Samsung Galaxy Book3 Pro EVO AMOLED Intel Core i7 13th Gen 1360P,Intel Core i7 Processor,16 GB,Windows 11,512 GB,SSD,16,4.6,22,0,47
+449,"₹78,490",Lenovo,Lenovo IdeaPad Slim 5 WUXGA IPS Office 2024 Full Metal Body AMD Ryzen 7 Octa Core 7735HS,AMD Ryzen 7 Octa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,13.3,4.1,112,13,1
+450,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+451,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+452,"₹79,387",ASUS,ASUS TUF Gaming A15 (2025) AMD Ryzen 7 Hexa Core 7445HS,AMD Ryzen 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,15.6,4.3,82,7,7
+453,"₹41,838",HP,HP 15 (i3 14th Gen) Intel Core 3 100U,Intel Core 3 Processor,8 GB,64 bit Windows 11 Home,512 GB,SSD,15.6,4.2,1599,95,17
+454,"₹1,53,990",Lenovo,Lenovo LOQ 2025 Intel Core i7 14th Gen 14700HX,Intel Core i7 Processor,16 GB,Windows 11 Home,1 TB,SSD,15.6,4.4,163,16,12
+455,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+456,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+457,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+458,"₹54,990",Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.3,553,59,20
+459,"₹41,499",HP,HP 255 G10 (2025) AMD Athlon Dual Core 7120U,AMD Athlon Dual Core Processor,8 GB,64 bit Windows 11,256 GB,SSD,15.6,4.6,5,0,17
+460,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+461,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+462,"₹83,990",Apple,Apple MacBook AIR M2,Apple M2 Processor,16 GB,64 bit Mac OS,256 GB,SSD,13.6,4.7,13638,871,2
+463,"₹39,500",Acer,Acer Aspire 3 Intel Pentium Silver N6000,Intel Pentium Silver Processor,8 GB,64 bit Windows 11,256 GB,SSD,14,4.2,72,7,15
+464,"₹1,22,990",Apple,Apple MacBook Air M4,Apple M4 Processor,16 GB,Mac OS,512 GB,SSD,15.3,4.9,7,1,6
+465,"₹99,990",ASUS,ASUS TUF Gaming A16 (2026) with Office 2024 + M365 Basic AMD Ryzen 7 170,AMD Ryzen 7 Processor,16 GB,Windows 11 Home,512 GB,SSD,16,,,,23
+466,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+467,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+468,"₹21,990",HP,HP Chromebook Intel Celeron Dual Core N4120,Intel Celeron Dual Core Processor,4 GB,64 bit Chrome,,,14,4,2114,168,31
+469,"₹58,499",ASUS,"ASUS Vivobook 16 (2025), Copilot + PC with Backlit Keyboard, AI PC Intel Snapdragon X",Intel Snapdragon X Processor,16 GB,64 bit Windows 11 Home,512 GB,SSD,16,4.4,5,2,31
+470,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+471,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+472,"₹49,990",DELL,DELL Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,8 GB,Windows 11,512 GB,SSD,15.6,4.4,5,0,3
+473,"₹62,990",ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i5 13th Gen 1335U...",Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.3,1140,74,21
+474,"₹65,499",DELL,DELL Inspiron AMD Ryzen 5 Hexa Core 8540U,AMD Ryzen 5 Hexa Core Processor,16 GB,Windows 11,512 GB,SSD,14,4.2,6,1,15
+475,"₹48,990",Acer,Acer Aspire 3 Intel Core i5 13th Gen 1334U,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,14,4.3,1726,112,26
+476,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+477,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+478,"₹1,03,990",Lenovo,Lenovo LOQ Intel Core i5 13th Gen 13450HX,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.5,701,54,52
+479,"₹96,999",HP,HP Envy x360 Creator OLED Eyesafe Evo Intel Core i5 12th Gen 1230U,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,13.3,4.2,134,17,18
+480,"₹16,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.8,259,29,26
+481,"₹17,990",Lenovo,Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,11.6,4,89,9,42
+482,"₹1,04,999",Samsung,Samsung Galaxy Book5 360 Next Gen AI PC Full Metal Chasis Intel Core Ultra 5 226V,Intel Core Ultra 5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.5,70,7,23
+483,"₹1,03,990",Lenovo,Lenovo LOQ Intel Core i5 13th Gen 13450HX,Intel Core i5 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.5,701,54,52
+484,"₹57,990",Acer,Acer Aspire 7 Intel Core i5 13th Gen 13420H,Intel Core i5 Processor,16 GB,64 bit Windows 11,512 GB,SSD,15.6,4.3,2479,173,31
+485,"₹1,11,990",Apple,Apple MacBook Air M3,Apple M3 Processor,16 GB,Mac OS,256 GB,SSD,13.6,4.6,684,46,2
+486,"₹20,990",ASUS,ASUS Chromebook CX15 Intel Celeron Dual Core N50,Intel Celeron Dual Core Processor,4 GB,Chrome,,,15.6,4.1,102,10,22
+487,"₹22,490",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,8 GB,Chrome,,,11.6,4,3135,233,
+488,"₹15,299",Ultimus,Ultimus Intel Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB,64 bit Windows 11 Home,,,14.1,2.6,10,1,45
+489,"₹60,328",Acer,Acer Aspire Lite Intel Core i5 12th Gen 1235U,Intel Core i5 Processor,8 GB,Windows 11,512 GB,SSD,15.6,3.8,276,14,7
+490,"₹17,990",ASUS,ASUS Chromebook CX14 Intel Celeron Dual Core N4500,Intel Celeron Dual Core Processor,4 GB,Chrome,,,14,3.9,565,44,18
+491,"₹16,298",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520,MediaTek Kompanio 520 Processor,4 GB,Chrome,,,11.6,4,3135,233,
+492,"₹32,990",Lenovo,Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,16 GB,64 bit Windows 11,512 GB,SSD,14,4.2,432,21,42
+493,"₹64,938",ASUS,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,Intel Core i3 Processor,16 GB,Windows 11,512 GB,SSD,15.6,4.3,7219,513,5
+494,"₹3,41,990",Apple,Apple MacBook Pro M3 Max,Apple M3 Max Processor,36 GB,Mac OS,1 TB,SSD,16,,,,2
+495,"₹69,990",Acer,Acer Swift 14 AI Intel Core Ultra 5,Intel Core Ultra 5 Processor,16 GB,Windows 11,512 GB,SSD,14,2.6,5,1,37
+496,"₹1,34,990",HP,HP OMEN AI AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,24 GB,Windows 11 Home,1 TB,SSD,16,4.5,64,6,17
+497,"₹87,990",ASUS,"ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core 445...",AMD Ryzen AI 7 Hexa Core Processor,16 GB,Windows 11 Home,512 GB,SSD,16,4.8,4,0,10
+498,"₹3,79,990",MSI,MSI Raider 18 HX Intel Core i9 14th Gen 14900HX,Intel Core i9 Processor,32 GB,Windows 11,2 TB,SSD,18,,,,
+499,"₹47,990",HP,HP 15s Backlit Keyboard AMD Ryzen 3 Quad Core 7320U,AMD Ryzen 3 Quad Core Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.2,1029,79,14
+500,"₹21,990",Lenovo,Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528,MediaTek MediaTek Kompanio 528 Processor,4 GB,Chrome,,,11.6,3.9,1478,114,41
+501,"₹87,612",HP,HP OmniBook 7 Aero (Previously Pavilion) AMD Ryzen AI 7 Octa Core AI 7 350,AMD Ryzen AI 7 Octa Core Processor,16 GB,Windows 11,512 GB,SSD,13.3,4,110,11,17
+502,"₹1,33,300",Apple,"Apple MacBook Air (M5, 2026) M5",Apple M5 Processor,16 GB,Mac OS,512 GB,SSD,15.3,4.5,31,2,8
+503,"₹79,999",Acer,Acer Aspire 7 Intel Core i5 13th Gen 13420H,Intel Core i5 Processor,8 GB,64 bit Windows 11,512 GB,SSD,15.6,4.3,2479,173,
